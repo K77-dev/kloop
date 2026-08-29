@@ -1,7 +1,7 @@
 ---
 description: Crítico kloop de semântica — analisa diff vs. pedido vs. design e emite conflitos numerados ou APPROVED. Acionado pelo orquestrador kloop em todo round, em paralelo com analyst e tester.
 mode: subagent
-model: zhipuai-coding-plan/glm-5.3
+model: zai-coding-plan/glm-5.3
 permission:
   edit: deny
 ---

@@ -33,7 +33,7 @@ Os críticos rodam **isolados**: não veem o histórico do debate nem a saída u
 | `kloop-analyst` | subagent | glm-5.2 | edit: deny | STRIDE-lite + heurísticas de performance |
 | `kloop-tester` | subagent | glm-5.3-flash | edit: deny | Executa checks; falhas viram conflitos |
 
-Modelos do provider `zhipuai-coding-plan` (GLM Coding Plan da Z.ai).
+Modelos do provider `zai-coding-plan` (GLM Coding Plan da Z.ai).
 
 ## Protocolo
 

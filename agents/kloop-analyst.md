@@ -1,7 +1,7 @@
 ---
 description: Analista kloop de segurança e performance — varre o diff com checklist STRIDE-lite e heurísticas de performance, emitindo conflitos numerados ou CLEAR. Acionado pelo orquestrador kloop em todo round, em paralelo com reviewer e tester.
 mode: subagent
-model: zhipuai-coding-plan/glm-5.2
+model: zai-coding-plan/glm-5.2
 permission:
   edit: deny
 ---

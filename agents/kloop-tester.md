@@ -1,7 +1,7 @@
 ---
 description: Validador kloop — executa lint, typecheck, build e testes do projeto e reporta falhas como conflitos numerados reproduzíveis, ou GREEN. Acionado pelo orquestrador kloop em todo round, em paralelo com reviewer e analyst.
 mode: subagent
-model: zhipuai-coding-plan/glm-5.3-flash
+model: zai-coding-plan/glm-5.3-flash
 permission:
   edit: deny
   bash: allow
